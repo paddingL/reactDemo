@@ -1,0 +1,37 @@
+{
+  "name": "aa",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "browser": "^0.2.6",
+    "lodash": "^4.17.4",
+    "react": "^15.4.2",
+    "react-dom": "^15.4.2",
+    "uniq": "^1.0.1"
+  },
+  "devDependencies": {
+    "eslint": "^3.17.0",
+    "eslint-plugin-react": "^6.10.0",
+    "gulp": "^3.9.1",
+    "gulp-browserify": "^0.5.1",
+    "gulp-concat": "^2.6.1",
+    "gulp-connect": "^5.0.0",
+    "gulp-react": "^3.1.0",
+    "lodash": "^4.17.4",
+    "reactify": "^1.1.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lianlin2121241/reactStudy.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lianlin2121241/reactStudy/issues"
+  },
+  "homepage": "https://github.com/lianlin2121241/reactStudy#readme"
+}
